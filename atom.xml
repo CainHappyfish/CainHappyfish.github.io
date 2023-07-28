@@ -3,11 +3,11 @@
   <title>CainHappyfish&#39;s Blog</title>
   
   
-  <link href="https://cainhappyfish.github.io/project/atom.xml" rel="self"/>
+  <link href="https://cainhappyfish.github.io/atom.xml" rel="self"/>
   
-  <link href="https://cainhappyfish.github.io/project/"/>
+  <link href="https://cainhappyfish.github.io/"/>
   <updated>2023-07-28T09:01:03.991Z</updated>
-  <id>https://cainhappyfish.github.io/project/</id>
+  <id>https://cainhappyfish.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cainhappyfish.github.io/project/2023/07/28/hello-world/"/>
-    <id>https://cainhappyfish.github.io/project/2023/07/28/hello-world/</id>
+    <link href="https://cainhappyfish.github.io/2023/07/28/hello-world/"/>
+    <id>https://cainhappyfish.github.io/2023/07/28/hello-world/</id>
     <published>2023-07-28T09:01:03.991Z</published>
     <updated>2023-07-28T09:01:03.991Z</updated>
     
